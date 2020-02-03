@@ -46,7 +46,7 @@ While still open-source like the other supported frameworks, Kaldi is mostly foc
 
 A set of files converted from one of the supported frameworks, or available as one of the Pre-Trained Models. This has been optimized for inference through the Inference Engine, and may be at one of several different precision levels. Made of two files:
 
-.xml - Describes the network topology
+.xml - Describes the network topology <br/>
 .bin - Contains the weights and biases in a binary file
 
 **Supported Layers**
